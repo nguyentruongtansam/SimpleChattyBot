@@ -1,1 +1,1 @@
-# simple-chatty-bot-hyperskill
+# SimpleChattyBot
